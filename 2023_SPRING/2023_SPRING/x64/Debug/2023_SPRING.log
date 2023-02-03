@@ -1,2 +1,5 @@
-﻿  1264.cpp
-  2023_SPRING.vcxproj -> C:\BaekJoon\2023_SPRING\x64\Debug\2023_SPRING.exe
+﻿  4153.cpp
+C:\BaekJoon\BaekJoon\2023_SPRING\2023_SPRING\4153.cpp(22,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\BaekJoon\BaekJoon\2023_SPRING\2023_SPRING\4153.cpp(23,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\BaekJoon\BaekJoon\2023_SPRING\2023_SPRING\4153.cpp(24,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2023_SPRING.vcxproj -> C:\BaekJoon\BaekJoon\2023_SPRING\x64\Debug\2023_SPRING.exe
