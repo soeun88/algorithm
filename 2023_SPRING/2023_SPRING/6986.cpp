@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
 	int N, K;
-	double score[100000] = {};
-	double trimmed[100000] = {};
-	double adjusted[100000] = {};
+	double score[100001] = {};
+	double trimmed[100001] = {};
+	double adjusted[100001] = {};
 	double trim = 0, adjust = 0;
 
 	cin >> N >> K;
