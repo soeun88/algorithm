@@ -13,6 +13,8 @@ int main() {
 		else result = -1;
 	}
 
+
+
 	cout << result << endl;
 
 }
