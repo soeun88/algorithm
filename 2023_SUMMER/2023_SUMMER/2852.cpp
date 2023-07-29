@@ -1,4 +1,3 @@
-//¹Ì¿Ï
 #include<iostream>
 #include<string>
 using namespace std;
